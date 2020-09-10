@@ -1,2 +1,2 @@
-# GSCO-project-20
-Whitehat-jr-prjt
+# p5.play-boilerplate
+Boiler plate for p5.play
